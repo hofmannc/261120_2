@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Wie lautet der Titel des Softwareprojekts?",
+    "set": "",
+    "values": "261120projekttitel"
+  },
+  {
+    "question": "In welche Anwendungsklasse wird die Software eingeordnet?",
+    "set": "",
+    "values": "Anwendungsklasse 2: Die Software soll eine langfristige Entwicklung und Wartbarkeit gew\u00e4hrleisten. Sie ist die Grundlage f\u00fcr einen \u00dcbergang zum Produktstatus."
+  },
+  {
+    "question": "Typ",
+    "set": "Set \"PM3\"",
+    "values": "Person"
+  },
+  {
+    "question": "Typ",
+    "set": "Set \"Enti3\"",
+    "values": "Entit\u00e4t"
+  },
+  {
+    "question": "Typ",
+    "set": "Set \"Rev3\"",
+    "values": "Person"
+  },
+  {
+    "question": "Familienname(n)",
+    "set": "Set \"PM3\"",
+    "values": "Kirchner"
+  },
+  {
+    "question": "Familienname(n)",
+    "set": "Set \"Rev3\"",
+    "values": "Lang"
+  },
+  {
+    "question": "Rufname(n)",
+    "set": "Set \"PM3\"",
+    "values": "Karl"
+  },
+  {
+    "question": "Rufname(n)",
+    "set": "Set \"Rev3\"",
+    "values": "Lisa"
+  },
+  {
+    "question": "Name",
+    "set": "Set \"Enti3\"",
+    "values": "Entit\u00e4t3"
+  },
+  {
+    "question": "ORCID",
+    "set": "Set \"Rev3\"",
+    "values": "1236-1236-6321-6321"
+  },
+  {
+    "question": "Rolle",
+    "set": "Set \"PM3\" Set #1",
+    "values": "PMgmt"
+  },
+  {
+    "question": "Rolle",
+    "set": "Set \"Enti3\" Set #1",
+    "values": "Projektleiter"
+  },
+  {
+    "question": "Affiliation",
+    "set": "Set \"Enti3\" Set #1",
+    "values": "MPDL"
+  },
+  {
+    "question": "Wann beginnt das Softwareprojekt?",
+    "set": "",
+    "values": "2026-11-27"
+  },
+  {
+    "question": "Wann endet das Softwareprojekt?",
+    "set": "",
+    "values": "2026-12-04"
+  }
+]
