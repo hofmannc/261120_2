@@ -1,0 +1,14 @@
+
+    cff-version: 1.2.0
+    message: "If you use this software, please cite it as below."
+    title: 261120
+    type: software
+    authors:        
+        - family-names: Kirchner
+          given-names: Karl        
+        - name: Entität3
+          affiliation: "MPDL"        
+        - family-names: Lang
+          given-names: Lisa
+          orcid: 1236-1236-6321-6321
+    date-released: 2026-12-04
