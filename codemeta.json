@@ -1,0 +1,28 @@
+
+    {
+        "@context": "https://w3id.org/codemeta/3.0",
+        "name": "261120",
+        "@type": "SoftwareSourceCode",
+        "contributor": [          
+            {
+                "@type": "Person",
+                "familyName": "Kirchner",
+                "givenName": "Karl"
+            },          
+            {
+                "@type": "Organization",
+                "name": "Entität3",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "MPDL"
+                }
+            },          
+            {
+                "@id": "1236-1236-6321-6321",
+                "@type": "Person",
+                "familyName": "Lang",
+                "givenName": "Lisa"
+            }
+        ],
+        "datePublished": "2026-12-04"
+    }
