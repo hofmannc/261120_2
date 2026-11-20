@@ -1,0 +1,16 @@
+Wie lautet der Titel des Softwareprojekts?,,261120projekttitel
+In welche Anwendungsklasse wird die Software eingeordnet?,,Anwendungsklasse 2: Die Software soll eine langfristige Entwicklung und Wartbarkeit gewährleisten. Sie ist die Grundlage für einen Übergang zum Produktstatus.
+Typ,"Set ""PM3""",Person
+Typ,"Set ""Enti3""",Entität
+Typ,"Set ""Rev3""",Person
+Familienname(n),"Set ""PM3""",Kirchner
+Familienname(n),"Set ""Rev3""",Lang
+Rufname(n),"Set ""PM3""",Karl
+Rufname(n),"Set ""Rev3""",Lisa
+Name,"Set ""Enti3""",Entität3
+ORCID,"Set ""Rev3""",1236-1236-6321-6321
+Rolle,"Set ""PM3"" Set #1",PMgmt
+Rolle,"Set ""Enti3"" Set #1",Projektleiter
+Affiliation,"Set ""Enti3"" Set #1",MPDL
+Wann beginnt das Softwareprojekt?,,2026-11-27
+Wann endet das Softwareprojekt?,,2026-12-04
